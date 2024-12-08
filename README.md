@@ -88,7 +88,7 @@ A decision tree plot displaying:
 - Class labels
 
 Example:
-![Decision Tree Example](https://via.placeholder.com/800x400?text=Decision+Tree+Visualization)
+![Decision Tree Example](https://github.com/dms-codes/decisiion-tree-drugs/blob/main/decision-tree-drugs.png?raw=true)
 
 ---
 
