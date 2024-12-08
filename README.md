@@ -143,4 +143,4 @@ This project is licensed under the MIT License. You are free to use, modify, and
 
 ## Author
 
-Created by [Your Name]. If you have any questions, feel free to reach out! 😊
+If you have any questions, feel free to reach out! 😊
